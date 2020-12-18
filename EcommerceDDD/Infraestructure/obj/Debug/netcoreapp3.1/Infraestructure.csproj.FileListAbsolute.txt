@@ -1,0 +1,14 @@
+C:\Repositorio\EcommerceDDD\EcommerceDDD\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.csprojAssemblyReference.cache
+C:\Repositorio\EcommerceDDD\EcommerceDDD\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.AssemblyInfoInputs.cache
+C:\Repositorio\EcommerceDDD\EcommerceDDD\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.AssemblyInfo.cs
+C:\Repositorio\EcommerceDDD\EcommerceDDD\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Repositorio\EcommerceDDD\EcommerceDDD\Infraestructure\bin\Debug\netcoreapp3.1\Infraestructure.deps.json
+C:\Repositorio\EcommerceDDD\EcommerceDDD\Infraestructure\bin\Debug\netcoreapp3.1\Infraestructure.dll
+C:\Repositorio\EcommerceDDD\EcommerceDDD\Infraestructure\bin\Debug\netcoreapp3.1\Infraestructure.pdb
+C:\Repositorio\EcommerceDDD\EcommerceDDD\Infraestructure\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Repositorio\EcommerceDDD\EcommerceDDD\Infraestructure\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Repositorio\EcommerceDDD\EcommerceDDD\Infraestructure\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Repositorio\EcommerceDDD\EcommerceDDD\Infraestructure\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Repositorio\EcommerceDDD\EcommerceDDD\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.csproj.CopyComplete
+C:\Repositorio\EcommerceDDD\EcommerceDDD\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.dll
+C:\Repositorio\EcommerceDDD\EcommerceDDD\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.pdb
